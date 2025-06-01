@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+  <button class="btn btn-secondary">
+    <Icon name="tabler:map" />
+  </button>
 </template>
